@@ -55,6 +55,9 @@ if d > terbesar:
 print("Bilangan terbesar adalah:", terbesar)
 
 ```
+Screenshoot
+[Latihan 1 Kondisi If](img/latihan1_kondisi_if)
+
 **Flowchart:**
 ┌───────────────────────────┐
 │          Mulai            │
@@ -109,6 +112,8 @@ data.sort()
 
 print("Urutan dari terkecil ke terbesar:", data)
 ```
+Screenshoot
+[Latihan 2 Kondisi If](img/latihan2_kondisi_if)
 
 **Flowchart:**
 ┌───────────────────────────┐
@@ -142,6 +147,8 @@ for i in range(1, n+1):
         print("*", end="")
     print()
 ```
+Screenshoot
+[Latihan 1 Perulangan](img/latihan1_perulangan)
 
 **Flowchart:**
 ┌───────────────────────────┐
@@ -203,6 +210,8 @@ while i < n:
             print(bil)
     i += 1
 ```
+Screenshoot
+[Latihan 2 Perulangan](img/latihan2_perulangan)
 
 **Flowchart**
 M┌───────────────────────────┐
