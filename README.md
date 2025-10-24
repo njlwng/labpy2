@@ -58,6 +58,10 @@ print("Bilangan terbesar adalah:", terbesar)
 Screenshoot
 [Latihan 1 Kondisi If](img/latihan1_kondisi_if)
 
+## Penjelasan
+Program ini menggunakan struktur if untuk membandingkan empat bilangan.
+Setiap kondisi akan mengganti nilai terbesar bila ditemukan angka yang lebih besar
+
 **Flowchart:**
 ┌───────────────────────────┐
 │          Mulai            │
